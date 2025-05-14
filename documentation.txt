@@ -1,0 +1,5 @@
+this file contains a website that will show blogs from other sources. it was only used for pratical purposes.
+here is a link to the file's deployed site, this site is deloued using netlifty.com
+
+
+  https://blogsiteforai.netlify.app/
